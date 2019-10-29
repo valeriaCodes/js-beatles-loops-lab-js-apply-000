@@ -27,6 +27,7 @@ function iLoveBeatles(num) {
     let str = "I love the Beatles!";
     newArr.push(str);
   } while (num <15);
+  return newArr;
 }
 
 
