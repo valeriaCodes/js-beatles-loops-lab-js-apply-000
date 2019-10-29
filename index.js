@@ -5,7 +5,7 @@ function theBeatlesPlay (musicians, instruments) {
     
     sentence.push(str);
   }
-  return sentence;
+  return sentence.split("\r\n");
   
 }
 
