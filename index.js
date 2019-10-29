@@ -3,7 +3,7 @@ function theBeatlesPlay (musicians, instruments) {
   for(let i = 0; i < musicians.length; i+=2) {
     let str = musicians[i] + ' plays ' + instruments[i];
     
-    sentence.push(str);
+    sentence.push(str +\*n);
   }
   return sentence;
   
