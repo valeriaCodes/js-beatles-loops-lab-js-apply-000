@@ -23,8 +23,8 @@ function johnLennonFacts(facts) {
 function iLoveBeatles(num) {
   let newArr = [];
   do {
-    num +=1 
-  } while (num <15)
+    num +=1;
+  } while (num <15);
 }
 
 
